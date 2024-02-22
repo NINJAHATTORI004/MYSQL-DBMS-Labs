@@ -1,5 +1,4 @@
 # MYSQL-DBMS-Labs
-practice:\\
+practicE:\\
 
-
-If it is useful to me, it is useful to you and vice-versa;)
+TODAY WELL CODED, MAKES EVERY YESTERCODE A BEAUTIFUL DREAM OF GITHUB;)
